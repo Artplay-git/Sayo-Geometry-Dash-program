@@ -1,1 +1,1 @@
-Copyright (c) [2026] [Artplay-git]
+Copyright (c) 2026 Artplay-git
