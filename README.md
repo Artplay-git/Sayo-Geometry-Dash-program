@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Artplay-git
+
 Hi user!
 
 If this program IS NOT WORKING, try: 
